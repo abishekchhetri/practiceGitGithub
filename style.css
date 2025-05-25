@@ -1,5 +1,13 @@
+:root {
+  --primary-color: red;
+  --secondary-color: blue;
+}
+/* some teammate changed this thing */
+
 * {
   box-sizing: border-box;
-  margin: 0 auto;
+  margin: 0;
   /* added margin here */
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
 }
