@@ -16,6 +16,12 @@
 body {
   color: black;
   border-radius: 34px;
+  box-sizing: border-box;
+  margin: 0;
+  /* added margin here */
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  font-size: medium;
 }
 /* 
 git config --global user.name <username>
