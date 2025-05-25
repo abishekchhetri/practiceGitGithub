@@ -29,4 +29,6 @@ body {
   flex-direction: column;
   flex-wrap: nowrap;
   position: absolute;
+  font-feature-settings: "aalt";
+  font-weight: 800;
 }
